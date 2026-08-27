@@ -1,1 +1,1 @@
-# Repositorio pessoal para estudos e treinos de linguagens e tecnologias
+# Personal repository for studying and practicing languages ​​and technologies.
